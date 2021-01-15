@@ -2,7 +2,7 @@
 
 验证系统用于验证对于特定的控制器操作或服务的方法的用户输入或客户端请求.
 
-ABP与ASP.NET Core模型验证系统系统兼容,[模型验证文档](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/validation)中的内容对于基于ABP应用程序同样有效.所以本文主要集中在ABP特征,而不是重复微软文档.
+ABP与ASP.NET Core模型验证系统系统兼容,[模型验证文档](https://docs.microsoft.com/z-cn/aspnet/core/mvc/models/validation)中的内容对于基于ABP应用程序同样有效.所以本文主要集中在ABP特征,而不是重复微软文档.
 
 ABP增加了以下优点:
 
